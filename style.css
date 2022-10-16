@@ -1,0 +1,125 @@
+h3 {
+    display: inline-block;
+    margin-top: 2%;
+}
+.japan {
+    margin-left: 10%;
+}
+
+.abo{
+    margin-left: 64%;
+}
+.discover{
+    margin-left: 20%;
+}
+.plan {
+    margin-left: 22%;
+}
+.image {
+    position: absolute;
+    margin-left: 42%;
+    width: 50%;
+    
+}
+h4 {
+}
+.explore {
+    
+    position: absolute;
+    border: solid 2px white;
+    width: 22%;
+    height: 27%;
+    
+    background-color: white;
+    margin-left: 25%;
+    margin-top: 10%;
+    
+}
+h1 {
+    position: absolute;
+    margin-left: 35%;
+    margin-top: 24%;
+}
+.div1 {
+    position: absolute;
+    height: 10%;
+    width: 5%;
+    border: solid black;
+    border-right: none;
+}
+.div2 {
+    position: absolute;
+    height: 10%;
+    width: 5%;
+    border: solid black;
+    margin-left: 5%;
+}
+.first {
+    position: absolute;
+    height: 10%;
+    width: 10%;
+    border: solid black;
+    margin-left: 20%;
+    margin-top: 35%;
+    border-left: none;
+    border-bottom: none;
+    transform: rotate(-135deg);
+}
+.one {
+    position: absolute;
+    height: 35%;
+    width: 30%;
+    border: solid black;
+    margin-left: 20%;
+    margin-top: 5%;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    transform: rotate(180deg);
+}
+.second {
+    position: absolute;
+    height: 10%;
+    width: 10%;
+    border: solid black;
+    margin-left: 65%;
+    margin-top: 35%;
+    border-right: none;
+    border-bottom: none;
+    
+    transform: rotate(130deg);
+}
+.two {
+    position: absolute;
+    height: 35%;
+    width: 30%;
+    border: solid black;
+    margin-left: 49%;
+    margin-top: 5%;
+    border-right: none;
+    border-left: none;
+    border-bottom: none;
+    transform: rotate(180deg);
+}
+.box {
+   margin-top: 35%;
+   margin-bottom: 15%;
+   
+   
+    
+}
+.box1 {
+    
+    margin-left: 82.5%;
+    margin-top: 5%;
+    
+}
+h4{
+    position: absolute;
+    margin-left: 42%;
+    margin-right: 6%;
+    margin-top: 2%;
+}
+U {
+    color: red;
+}
